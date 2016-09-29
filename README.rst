@@ -1,2 +1,3 @@
-= To install locally after cloning =
+To install locally after cloning
+==================================
 pip install -e .
